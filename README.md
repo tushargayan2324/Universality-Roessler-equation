@@ -1,5 +1,9 @@
-# Incomplete_stuff
+# Universality Roessler equation
+
 Incomplete codes
+
+This code is not refined and lacks the guide/comments explaining what is it and how it works. Will add it soon
+
 
 To convert all the images/frames to mp4, use the following command
 
